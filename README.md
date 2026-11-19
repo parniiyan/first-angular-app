@@ -1,6 +1,7 @@
 # My First Angular App
 
 A simple Angular application developed as the first Angular practice assignment.
+<img width="959" height="550" alt="image" src="https://github.com/user-attachments/assets/e32d0a9b-d749-4c52-895c-c1b227d32c51" />
 
 ## Features
 
